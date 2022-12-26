@@ -8,14 +8,14 @@ name ''
 description 'FiveM Panicbutton'
 
 shared_script {
-    'config.lua'
+	'config.lua'
 }
 client_scripts {
-    'client.lua'
+	'client.lua'
 }
 server_scripts {
-    'server.lua'
+	'server.lua'
 }
 dependencies {
-    'es_extended',
+	'es_extended',
 }
