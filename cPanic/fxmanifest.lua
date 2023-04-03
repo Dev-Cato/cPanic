@@ -6,7 +6,7 @@ lua54 'yes'
 author 'CΛTO ssdasd'
 name ''
 description 'FiveM Panicbutton'
-version '1.0.0'
+version '1.0.2'
 
 shared_script {
 	'config.lua'
