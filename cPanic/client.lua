@@ -117,3 +117,4 @@ function isAllowed()
 	Wait(100)
 	return allowed
 end
+
