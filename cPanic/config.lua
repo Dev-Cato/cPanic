@@ -2,6 +2,9 @@
 --════════════════════════════════════════< settings >════════════════════════════════════════--
 Config = {}
 
+Config.AutoUpdate = true -- automaticly download updates
+Config.UpdateConfig = true -- if false the config file do not update
+
 Config.Panictune = 'panictune' -- panictune command
 Config.Panic = 'panic' -- trigger the panic
 Config.PanicTime = 30 -- seconds to blip disappear
