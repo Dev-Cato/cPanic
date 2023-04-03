@@ -3,9 +3,10 @@ games {'gta5'}
 lua54 'yes'
 
 
-author 'CΛTO'
+author 'CΛTO ssdasd'
 name ''
 description 'FiveM Panicbutton'
+version '1.0.0'
 
 shared_script {
 	'config.lua'
@@ -14,8 +15,10 @@ client_scripts {
 	'client.lua'
 }
 server_scripts {
-	'server.lua'
+	'server.lua',
+	'updater.lua',
 }
+
 dependencies {
 	'es_extended',
 }
