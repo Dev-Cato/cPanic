@@ -3,7 +3,7 @@ games {'gta5'}
 lua54 'yes'
 
 
-author 'CΛTO ssdasd'
+author 'CΛTO'
 name ''
 description 'FiveM Panicbutton'
 version '1.0.2'
